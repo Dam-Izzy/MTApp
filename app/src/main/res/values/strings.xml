@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MTApp</string>
+    <string name="usuario">Ingrese el usuario</string>
+    <string name="contrasena">Ingrese la contraseña</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="contrase_a">Contraseña</string>
+</resources>
